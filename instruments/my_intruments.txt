@@ -1,3 +1,5 @@
 guitar
 drums
 cencerro
+bass
+conga
